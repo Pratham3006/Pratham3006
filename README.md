@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <div style="display: flex; justify-content: center; align-items: center; width:"400px">
-    <img alt="Coding" src="https://camo.githubusercontent.com/ad28cab36fa44e2f77a63970bcbb06660efdd314ed9168ec140d7b222dc2ae9e/68747470733a2f2f7777772e6c616d626461746573742e636f6d2f7265736f75726365732f696d616765732f6e65777332342e676966" style="max-width: 100%; display:"inline" >
+    <img src="https://i.redd.it/n8agw6z2smyb1.gif" jsaction="VQAsE" class="sFlh5c pT0Scc iPVvYb" style="max-width: 1920px; height: 197px; margin: 0.5px 0px; width: 351px;" alt="Coding by Pixel Jeff : r/Cyberpunk" jsname="kn3ccd">
 </div>
 
 
