@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pratham</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<div style="display: flex; justify-content: center; align-items: center; width:"400px">
+<div style="display: flex; justify-content: center; align-items: center; width:"800px">
     <img src="https://i.redd.it/n8agw6z2smyb1.gif" jsaction="VQAsE" class="sFlh5c pT0Scc iPVvYb" style="max-width: 1920px; height: 197px; margin: 0.5px 0px; width: 351px;" alt="Coding by Pixel Jeff : r/Cyberpunk" jsname="kn3ccd">
 </div>
 
