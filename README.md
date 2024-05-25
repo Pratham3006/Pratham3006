@@ -12,19 +12,19 @@
 
 <p align="left"> <a href="https://twitter.com/pratham76377400" target="blank"><img src="https://img.shields.io/twitter/follow/pratham76377400?logo=twitter&style=for-the-badge" alt="pratham76377400" /></a> </p>
 
-- 🔭 I’m currently looking for opportunities **with web development**
+- 🔭 **Exploring Web Horizons**
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 Currently Mastering: **MERN stack**
 
-- 👯 I’m looking to collaborate with **developers out there**
+- 👯 Open to Collaboration: **Seeking like-minded developers to build amazing projects together**
 
-- 💬 Ask me about **Web development**
+- 💬 Ask me about:**Web development, MERN stack, or any tech curiosity you have**
 
 - 📫 How to reach me **prathamshetty71@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1rDEdzagtoWB3cs09OTMKWL1nDEk037zy/view?usp=sharing](https://drive.google.com/file/d/1rDEdzagtoWB3cs09OTMKWL1nDEk037zy/view?usp=sharing)
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1rDEdzagtoWB3cs09OTMKWL1nDEk037zy/view?usp=sharing">My Resume</a>
 
-- ⚡ Fun fact **I'm lazy**
+- ⚡ Fun fact **I might enjoy a lazy Sunday, but my code is always in action**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -109,6 +109,9 @@ Here is the code with the icons arranged in the specified order:
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
   </a>
+    <a>
+       <img src="https://icon.icepanel.io/Technology/svg/Mongoose.js.svg" alt="Mongoose.js icon" height="40" width="40" />
+    </a>
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
   </a>
